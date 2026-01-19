@@ -1,0 +1,8 @@
+{
+  "name": "MojTermin - Pametno Zakazivanje",
+  "description": "Sveobuhvatna platforma za zakazivanje termina u kozmetičkim salonima, teretanama i spa centrima sa integrisanim AI asistentom.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
